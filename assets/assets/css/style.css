@@ -1,0 +1,181 @@
+.navigation{
+    width: 100%;
+    padding: 20px;
+    background-color: #071d49;
+    
+}
+.nav-li{
+    list-style-type: none;
+    float: left;
+    padding: 4px 6px;
+    color: white;
+}
+
+
+.nav-li {
+	list-style-type: none;
+	float: left;
+	padding: 3px 16px;
+	
+	margin-top: -24px;
+	
+	margin-right: 16px;
+}
+
+.nav-li2 {
+	list-style-type: none;
+	
+	padding: 4px 130px;
+	display: flow-root list-item;
+	display: inline;
+
+	margin-right: 188px;
+}
+
+.banner{
+    width: 100%;
+}
+.bann1{
+width: 100%;
+}
+.bann-tex {
+	z-index: 10px;
+	margin-top: -403px;
+	margin-left: 12%;
+	color: #fff5b8;
+}
+
+.flex-continer{
+    padding: 280px;
+    justify-content: space-between;
+    display: flex;
+}
+.hed{
+    text-align: center;
+    color:  #071d49;
+    margin-top: -181px;
+}
+
+.sec-img {
+	width: 65%;
+	
+	margin-left: 17%;
+}
+.ban-text {
+	margin-top: -381px;
+	margin-left: 383px;
+
+	color: #f9d569;
+}
+
+
+.img-4 {
+	width: 565px;
+	height: 486px;
+	margin-left: 36px;
+    margin-top: -116px;
+}
+
+.img-5 {
+	width: 565px;
+	height: 486px;
+	margin-left: 24px;
+    margin-top: -116px;
+    margin-right: 54px;
+}
+
+.ban-text2 {
+	margin-top: -273px;
+	margin-left: 59px;
+
+	color: #f9d569;
+}
+.ban-text3 {
+	margin-top: -261px;
+	margin-left: 50px;
+	color: #f9d569;
+}
+.banner5{
+    padding:158px 228px;
+    background-color: #f1f8fa;
+    margin-top: -161px;
+}
+
+.hh1 {
+	color: #071d49;
+	margin-top: -73px;
+	text-align: center;
+}
+
+
+.img-10 {
+	width: 267px;
+	height: auto;
+	margin-left: 24px;
+	margin-top: -281px;
+	margin-right: 67px;
+}
+.ban-text10 {
+	margin-top: -101px;
+	margin-left: 1px;
+	color: #050505;
+	flex: content;
+	text-align: -moz-center;
+	padding: 10px;
+}
+
+
+
+
+.flex {
+	display: flex;
+	padding: 10px;
+	text-align: -moz-center;
+	margin-left: -247px;
+	margin-top: -195px;
+}
+
+.last-img {
+	width: 347px;
+	height: 253px;
+	float: left;
+	padding: 20px;
+}
+.footer {
+	padding: 122px 228px;
+	background-color: #071d49;
+	margin-top: 278px;
+}
+.em {
+	color: white;
+	/* position: fixed; */
+	margin-top: 60px;
+	position: absolute;
+}
+.email {
+	width: 40%;
+	padding: 10px;
+	margin-top: 90px;
+}
+.but{
+    padding: 10px;
+    background-color: #00a8e1;
+}
+
+.foo{
+    color: white;
+    margin-top: 20px;
+}
+
+.side {
+	margin-top: -140px;
+	margin-left: 65%;
+	margin-top: -19%;
+	color: white;
+}
+
+.social{
+    margin-left: -79%;
+    margin-top: 6%;
+    color: white;
+}
